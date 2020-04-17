@@ -1,0 +1,3 @@
+hdh_alpha
+manage
+tests
